@@ -10,7 +10,7 @@ import (
 	"crypto"
 	"encoding/asn1"
 	"errors"
-	"github.com/cetcxinlian/cryptogm/sm3"
+	"github.com/guijunchen/cryptogm/sm3"
 	"io"
 	"math"
 	"math/big"

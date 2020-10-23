@@ -10,9 +10,9 @@ import (
 	"crypto/rsa"
 	//"crypto/tls"
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/tls"
-	"github.com/cetcxinlian/cryptogm/x509"
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/guijunchen/cryptogm/tls"
+	"github.com/guijunchen/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/sm2"
 	"crypto/x509/pkix"
 	"encoding/asn1"
 	"encoding/binary"
@@ -34,7 +34,7 @@ import (
 	cferr "github.com/guijunchen/cfssl-go-gm/errors"
 	"github.com/guijunchen/cfssl-go-gm/helpers/derhelpers"
 	"github.com/guijunchen/cfssl-go-gm/log"
-	"github.com/cetcxinlian/cryptogm/pkcs12"
+	"github.com/guijunchen/cryptogm/pkcs12"
 )
 
 // OneYear is a time.Duration representing a year's worth of seconds.

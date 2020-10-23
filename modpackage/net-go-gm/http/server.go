@@ -10,10 +10,10 @@ import (
 	"bufio"
 	"bytes"
 	"context"
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/guijunchen/cryptogm/sm2"
 
 	//"crypto/tls"
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/guijunchen/cryptogm/tls"
 	"errors"
 	"fmt"
 	"io"

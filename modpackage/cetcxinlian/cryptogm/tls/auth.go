@@ -12,7 +12,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/guijunchen/cryptogm/sm2"
 )
 
 // pickSignatureAlgorithm selects a signature algorithm that is compatible with

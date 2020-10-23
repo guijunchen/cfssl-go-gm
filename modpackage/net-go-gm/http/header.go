@@ -6,7 +6,7 @@ package http
 
 import (
 	"io"
-	"github.com/Hyperledger-TWGC/net-go-gm/http/httptrace"
+	"github.com/guijunchen/net-go-gm/http/httptrace"
 	"net/textproto"
 	"sort"
 	"strings"

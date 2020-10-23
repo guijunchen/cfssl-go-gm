@@ -15,7 +15,7 @@ package pkcs12
 import (
 	"crypto/ecdsa"
 	"crypto/rsa"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	"crypto/x509/pkix"
 	"encoding/asn1"
 	"encoding/hex"

@@ -3,9 +3,9 @@ package config
 
 import (
 	//"crypto/tls"
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/guijunchen/cryptogm/tls"
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	"encoding/asn1"
 	"encoding/json"
 	"errors"

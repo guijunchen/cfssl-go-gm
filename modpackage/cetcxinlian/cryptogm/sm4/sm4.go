@@ -7,7 +7,7 @@
 */
 package sm4
 
-import "github.com/cetcxinlian/cryptogm/internal/subtle"
+import "github.com/guijunchen/cryptogm/internal/subtle"
 
 type cryptMode int
 

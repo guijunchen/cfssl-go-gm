@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cfssl.iml" filepath="$PROJECT_DIR$/.idea/cfssl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cfssl-go-gm.iml" filepath="$PROJECT_DIR$/.idea/cfssl-go-gm.iml" />
     </modules>
   </component>
 </project>

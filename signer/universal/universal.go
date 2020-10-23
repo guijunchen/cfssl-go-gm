@@ -3,9 +3,9 @@ package universal
 
 import (
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
+	"github.com/guijunchen/net-go-gm/http"
 
 	"github.com/guijunchen/cfssl-go-gm/certdb"
 	"github.com/guijunchen/cfssl-go-gm/config"

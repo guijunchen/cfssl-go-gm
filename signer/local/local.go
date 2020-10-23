@@ -6,7 +6,7 @@ import (
 	"crypto"
 	"crypto/rand"
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	"crypto/x509/pkix"
 	"encoding/asn1"
 	"encoding/hex"
@@ -16,7 +16,7 @@ import (
 	"math/big"
 	"net"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
+	"github.com/guijunchen/net-go-gm/http"
 	"net/mail"
 	"os"
 

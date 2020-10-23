@@ -12,7 +12,7 @@ package http
 import (
 	"context"
 	//"crypto/tls"
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/guijunchen/cryptogm/tls"
 	"encoding/base64"
 	"errors"
 	"fmt"

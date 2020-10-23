@@ -6,7 +6,7 @@ package tls
 
 import (
 	"bytes"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	"encoding/json"
 	"errors"
 	"fmt"

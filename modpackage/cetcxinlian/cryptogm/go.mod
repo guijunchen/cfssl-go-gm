@@ -1,3 +1,3 @@
-module github.com/cetcxinlian/cryptogm
+module github.com/guijunchen/cryptogm
 
 go 1.14

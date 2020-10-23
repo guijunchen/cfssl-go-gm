@@ -2,7 +2,7 @@ package errors
 
 import (
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	"encoding/json"
 	"fmt"
 )

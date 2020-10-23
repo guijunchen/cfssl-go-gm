@@ -7,8 +7,8 @@ import (
 	"crypto/ecdsa"
 	"crypto/rsa"
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/x509"
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/guijunchen/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/sm2"
 
 	cferr "github.com/guijunchen/cfssl-go-gm/errors"
 )

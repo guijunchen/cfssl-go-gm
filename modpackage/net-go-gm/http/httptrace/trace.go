@@ -9,8 +9,8 @@ package httptrace
 import (
 	"context"
 	//"crypto/tls"
-	"github.com/cetcxinlian/cryptogm/tls"
-	"github.com/Hyperledger-TWGC/net-go-gm/http/internal/nettrace" //copy from go src internal
+	"github.com/guijunchen/cryptogm/tls"
+	"github.com/guijunchen/net-go-gm/http/internal/nettrace" //copy from go src internal
 	"net"
 	"net/textproto"
 	"reflect"

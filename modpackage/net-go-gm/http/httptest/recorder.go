@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
+	"github.com/guijunchen/net-go-gm/http"
 	"net/textproto"
 	"strconv"
 	"strings"

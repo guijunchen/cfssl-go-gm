@@ -9,11 +9,11 @@ import (
 	"bufio"
 	"bytes"
 	//"crypto/tls"
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/guijunchen/cryptogm/tls"
 	"io"
 	"io/ioutil"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
+	"github.com/guijunchen/net-go-gm/http"
 	"strings"
 )
 

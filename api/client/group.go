@@ -2,10 +2,10 @@ package client
 
 import (
 	//"crypto/tls"
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/guijunchen/cryptogm/tls"
 	"errors"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
+	"github.com/guijunchen/net-go-gm/http"
 	"strings"
 	"time"
 

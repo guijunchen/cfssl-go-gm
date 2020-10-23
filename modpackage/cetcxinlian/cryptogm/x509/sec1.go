@@ -10,7 +10,7 @@ import (
 	"encoding/asn1"
 	"errors"
 	"fmt"
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/guijunchen/cryptogm/sm2"
 	"math/big"
 )
 

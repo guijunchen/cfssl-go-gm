@@ -5,7 +5,7 @@ import (
 	"crypto"
 	"crypto/rand"
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	"crypto/x509/pkix"
 	"math/big"
 	"os"

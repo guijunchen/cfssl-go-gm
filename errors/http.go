@@ -3,7 +3,7 @@ package errors
 import (
 	"errors"
 	//"net/http"
-	"github.com/Hyperledger-TWGC/net-go-gm/http"
+	"github.com/guijunchen/net-go-gm/http"
 )
 
 // HTTPError is an augmented error with a HTTP status code.

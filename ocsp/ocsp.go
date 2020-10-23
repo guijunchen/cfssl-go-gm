@@ -11,7 +11,7 @@ import (
 	"bytes"
 	"crypto"
 	//"crypto/x509"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/guijunchen/cryptogm/x509"
 	"crypto/x509/pkix"
 	"io/ioutil"
 	"strconv"
